@@ -1,0 +1,12 @@
+com\mycompany\maquina\de\cafe\Pagamento.class
+com\mycompany\maquina\de\cafe\CafeRequest.class
+com\mycompany\maquina\de\cafe\StatusPagamento.class
+com\mycompany\maquina\de\cafe\CafeController.class
+com\mycompany\maquina\de\cafe\MaquinaDeCafe.class
+com\mycompany\maquina\de\cafe\MaquinaDeCafeApplication.class
+com\mycompany\maquina\de\cafe\PreparoCafe.class
+com\mycompany\maquina\de\cafe\TipoAcucar.class
+com\mycompany\maquina\de\cafe\StatusPedido.class
+com\mycompany\maquina\de\cafe\TipoPagamento.class
+com\mycompany\maquina\de\cafe\Pedido.class
+com\mycompany\maquina\de\cafe\Estoque.class
